@@ -22,19 +22,16 @@
 ## ScreenShots ##
 
 Password Confirmation
-(https://drive.google.com/open?id=1fUy6T5UJou_Kx6BlVVUQ77i2a3ksBdpm)
+https://github.com/RishabhArya/LUDO/blob/master/Screenshots/Password%20Confirmation.png
 Loading….. Please Wait
-
-
+(https://github.com/RishabhArya/LUDO/blob/master/Screenshots/Dice.png)
 Directions
-
-Welcome To My Ludo
-
-
+https://github.com/RishabhArya/LUDO/blob/master/Screenshots/Directions.png
 The Main Game Board
-
+https://github.com/RishabhArya/LUDO/blob/master/Screenshots/Main%20Game%201.png
 The Main Game Running
-
+https://github.com/RishabhArya/LUDO/blob/master/Screenshots/Main%20Game%202.png
 The Main Game Running
-
+https://github.com/RishabhArya/LUDO/blob/master/Screenshots/main%20game%203.png
 The Main Game Running
+https://github.com/RishabhArya/LUDO/blob/master/Screenshots/main%20game%204.png
