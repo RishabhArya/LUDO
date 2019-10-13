@@ -22,16 +22,16 @@
 ## ScreenShots ##
 
 Password Confirmation
-https://github.com/RishabhArya/LUDO/blob/master/Screenshots/Password%20Confirmation.png
+![picture alt](https://github.com/RishabhArya/LUDO/blob/master/Screenshots/Password%20Confirmation.png)
 Loading….. Please Wait
-(https://github.com/RishabhArya/LUDO/blob/master/Screenshots/Dice.png)
+![picture alt](https://github.com/RishabhArya/LUDO/blob/master/Screenshots/Dice.png)
 Directions
-https://github.com/RishabhArya/LUDO/blob/master/Screenshots/Directions.png
+![picture alt](https://github.com/RishabhArya/LUDO/blob/master/Screenshots/Directions.png)
 The Main Game Board
-https://github.com/RishabhArya/LUDO/blob/master/Screenshots/Main%20Game%201.png
+![picture alt](https://github.com/RishabhArya/LUDO/blob/master/Screenshots/Main%20Game%201.png)
 The Main Game Running
-https://github.com/RishabhArya/LUDO/blob/master/Screenshots/Main%20Game%202.png
+![picture alt](https://github.com/RishabhArya/LUDO/blob/master/Screenshots/Main%20Game%202.png)
 The Main Game Running
-https://github.com/RishabhArya/LUDO/blob/master/Screenshots/main%20game%203.png
+![picture alt](https://github.com/RishabhArya/LUDO/blob/master/Screenshots/main%20game%203.png)
 The Main Game Running
-https://github.com/RishabhArya/LUDO/blob/master/Screenshots/main%20game%204.png
+![picture alt](https://github.com/RishabhArya/LUDO/blob/master/Screenshots/main%20game%204.png)
